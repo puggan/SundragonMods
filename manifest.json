@@ -1,0 +1,44 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-31.1.74",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "SundragonsMods",
+  "version": "0.0.1",
+  "author": "puggan",
+  "projectID": 381389,
+  "files": [
+    {
+      "projectID": 316582,
+      "fileID": 2944804,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 2906496,
+      "required": true
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2856529,
+      "required": true
+    },
+    {
+      "projectID": 288885,
+      "fileID": 2856527,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 2946765,
+      "required": true
+    }
+  ]
+}
