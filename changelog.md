@@ -1,3 +1,7 @@
+v0.0.3
+=========
+* Bugfix: Required = false, in the manifest.json, do wiered stuff, best to avoid it.
+
 v0.0.2
 =========
 * Bugfix Minecraft-version and Forge-version didn't match
