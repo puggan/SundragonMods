@@ -1,3 +1,7 @@
+v1.1.1
+=========
+* Version upgrades of Forge, Corpse & Bookshelf
+
 v1.1.0
 =========
 * Added mod for help with lightning up rooms: [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
