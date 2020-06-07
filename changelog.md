@@ -1,3 +1,10 @@
+v1.2.0
+=========
+* Added redstone tools:
+* Added Golden Hopper v1.1.1, a hopper with item-filter.
+* Add Uppers 0.2.12, a up-side-down hopper, that can push items upwards.
+* Add Workbench Factory v1.0.0, An hopper-enabled workbench.
+
 v1.1.1
 =========
 * Version upgrades of Forge, Corpse & Bookshelf
