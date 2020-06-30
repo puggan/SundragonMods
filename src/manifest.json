@@ -1,9 +1,9 @@
 {
     "minecraft": {
-        "version": "1.15.2",
+        "version": "",
         "modLoaders": [
             {
-                "id": "forge-31.2.0",
+                "id": "",
                 "primary": true
             }
         ]
@@ -11,89 +11,8 @@
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "SundragonsMods",
-    "version": "1.2.0",
+    "version": "",
     "author": "puggan",
     "projectID": 381389,
-    "files": [
-        {
-            "projectID": 32274,
-            "fileID": 2946765,
-            "required": true
-        },
-        {
-            "projectID": 228525,
-            "fileID": 2965233,
-            "required": true
-        },
-        {
-            "projectID": 256717,
-            "fileID": 2906496,
-            "required": true
-        },
-        {
-            "projectID": 278717,
-            "fileID": 2848864,
-            "required": true
-        },
-        {
-            "projectID": 281274,
-            "fileID": 2953624,
-            "required": true
-        },
-        {
-            "projectID": 283644,
-            "fileID": 2870411,
-            "required": true
-        },
-        {
-            "projectID": 288885,
-            "fileID": 2856527,
-            "required": true
-        },
-        {
-            "projectID": 299540,
-            "fileID": 2856529,
-            "required": true
-        },
-        {
-            "projectID": 316582,
-            "fileID": 2973188,
-            "required": true
-        },
-        {
-            "projectID": 325492,
-            "fileID": 2943730,
-            "required": true
-        },
-        {
-            "projectID": 348521,
-            "fileID": 2938583,
-            "required": true
-        },
-        {
-            "projectID": 348964,
-            "fileID": 2898204,
-            "required": true
-        },
-        {
-            "projectID": 368728,
-            "fileID": 2906836,
-            "required": true
-        },
-        {
-            "projectID": 374736,
-            "fileID": 2938348,
-            "required": true
-        },
-        {
-            "projectID": 377056,
-            "fileID": 2934454,
-            "required": true
-        },
-        {
-            "projectID": 386566,
-            "fileID": 2974135,
-            "required": true
-        }
-    ]
+    "files": []
 }
