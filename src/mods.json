@@ -23,7 +23,7 @@
     },
     "notes": {
       "1.15": "2020-05-25: 1.15.2-5.6.40",
-      "1.16": "Github + LGPL"
+      "1.16": "PR-Draft: https://github.com/Darkhax-Minecraft/Bookshelf/pull/143"
     }
   },
   "256717": {
@@ -199,7 +199,7 @@
     },
     "notes": {
       "1.15": "2020-04-19: 1.15.2-1.0.1",
-      "1.16": "Git + Accepts PR + Prio"
+      "1.16": "Depends on Bookshelf"
     }
   },
   "386566": {
