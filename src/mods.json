@@ -5,7 +5,8 @@
     "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
     "git": false,
     "files": {
-      "1.15": 2946765
+      "1.15": 2981594,
+      "skipped": 2981598
     },
     "notes": {
       "1.15": "2020-06-16: 1.15.2-5.7.0b3",
@@ -193,7 +194,8 @@
     "url": "https://www.curseforge.com/minecraft/mc-mods/coins-je",
     "git": "https://github.com/Darkhax-Minecraft/Coins",
     "files": {
-      "1.15": 2934454
+      "1.15": 2934454,
+      "skiped": 2988131
     },
     "notes": {
       "1.15": "2020-04-19: 1.15.2-1.0.1",
