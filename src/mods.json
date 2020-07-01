@@ -1,114 +1,218 @@
 {
   "32274": {
-    "name": "",
-    "url": "",
+    "name": "Journey Map",
+    "license": true,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+    "git": false,
     "files": {
       "1.15": 2946765
+    },
+    "notes": {
+      "1.15": "2020-06-16: 1.15.2-5.7.0b3",
+      "1.16": "Closed source :-("
     }
   },
   "228525": {
-    "name": "",
-    "url": "",
+    "name": "Bookshelf",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+    "git": "https://github.com/Darkhax-Minecraft/Bookshelf",
+    "license": "LGPL-2.1-only",
     "files": {
       "1.15": 2965233
+    },
+    "notes": {
+      "1.15": "2020-05-25: 1.15.2-5.6.40",
+      "1.16": "Github + LGPL"
     }
   },
   "256717": {
-    "name": "",
-    "url": "",
+    "name": "Clumps",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+    "git": "https://github.com/jaredlll08/Clumps",
+    "license": "MIT",
     "files": {
       "1.15": 2906496
+    },
+    "notes": {
+      "1.15": "2020-03-20 1.15-5.0.2",
+      "1.16": "Github + MIT"
     }
   },
   "278717": {
-    "name": "",
-    "url": "",
+    "name": "Sit",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sit",
+    "git": "https://github.com/bl4ckscor3/Sit",
+    "license": "GPL-3.0-only",
     "files": {
-      "1.15": 2848864
+      "1.15": 2848864,
+      "1.16": 2992948
+    },
+    "notes": {
+      "1.15": "2019-12-24: 1.15.1-1.3",
+      "1.16": "2020-06-30: 1.16.1-1.3"
     }
   },
   "281274": {
-    "name": "",
-    "url": "",
+    "name": "Uppers",
+    "license": true,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/uppers",
+    "git": "https://github.com/vadis365/Uppers",
     "files": {
-      "1.15": 2953624
+      "1.15": 2953624,
+      "1.16": 2989938
+    },
+    "notes": {
+      "1.15": "2020-05-11: 1.15-0.2.12",
+      "1.16": "2020-06-26: 1.16-0.3.0"
     }
   },
   "283644": {
-    "name": "",
-    "url": "",
+    "name": "Placebo",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+    "git": "https://github.com/Shadows-of-Fire/Placebo",
+    "license": "MIT",
     "files": {
       "1.15": 2870411
+    },
+    "notes": {
+      "1.15": "2020-01-27: 1.15.2-3.0.2",
+      "1.16": "Github + MIT"
     }
   },
   "288885": {
-    "name": "",
-    "url": "",
+    "name": "Fast Workbench",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
+    "git": "https://github.com/Shadows-of-Fire/FastWorkbench",
+    "license": "MIT",
     "files": {
       "1.15": 2856527
+    },
+    "notes": {
+      "1.15": "2020-01-08: 1.15.2-3.0.0",
+      "1.16": "github + MIT"
     }
   },
   "299540": {
-    "name": "",
-    "url": "",
+    "name": "Fast Furnace",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
+    "git": "https://github.com/Shadows-of-Fire/FastFurnace",
+    "license": "MIT",
     "files": {
       "1.15": 2856529
+    },
+    "notes": {
+      "1.15": "2020-01-08: 1.15.1-3.0.0",
+      "1.16": "github + MIT"
     }
   },
   "316582": {
-    "name": "",
-    "url": "",
+    "name": "Corpse",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+    "git": false,
+    "license": true,
     "files": {
-      "1.15": 2973188
+      "1.15": 2973188,
+      "1.16": 2991307
+    },
+    "notes": {
+      "1.15": "2020-06-05: 1.15.2-1.0.6",
+      "1.16": "2020-06-28: 1.16.1-1.0.2"
     }
   },
   "325492": {
-    "name": "",
-    "url": "",
+    "name": "Light Overlay",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/light-overlay",
+    "git": "https://github.com/shedaniel/LightOverlay-Fabric",
+    "license": "Apache-2.0",
     "files": {
-      "1.15": 2943730
+      "1.15": 2985650,
+      "1.16": 2990059
+    },
+    "notes": {
+      "1.15": "2020-06-22: 1.15-4.7.0",
+      "1.16": "2020-06-26: 1.16-5.4.0"
     }
   },
   "348521": {
-    "name": "",
-    "url": "",
+    "name": "Cloth Config API",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge",
+    "git": "https://github.com/shedaniel/ClothConfig",
+    "license": false,
     "files": {
-      "1.15": 2938583
+      "1.15": 2938583,
+      "1.16": 2990967
+    },
+    "notes": {
+      "1.15": "2020-04-23: 1.15.x-2.3.0",
+      "1.16": "2020-06-28: 1.16.x-4.0.1"
     }
   },
   "348964": {
-    "name": "",
-    "url": "",
+    "name": "Infinite Trading",
+    "license": true,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/infinite-trading",
+    "git": false,
     "files": {
-      "1.15": 2898204
+      "1.15": 2979191,
+      "1.16": 2990101
+    },
+    "notes": {
+      "1.15": "2020-06-13: 1.15-1.1",
+      "1.16": "2020-06-27: 1.16-1.1"
     }
   },
   "368728": {
-    "name": "",
-    "url": "",
+    "name": "Unbreakable Spawner",
+    "license": true,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/unbreakable-spawner",
+    "git": "https://github.com/Lothrazar/unbreakable",
     "files": {
       "1.15": 2906836
+    },
+    "notes": {
+      "1.15": "2020-03-21: 1.15.2-1.0.0",
+      "1.16": "https://github.com/Lothrazar/unbreakable/tree/trunk/1.16"
     }
   },
   "374736": {
-    "name": "",
-    "url": "",
+    "name": "Golden Hopper",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/golden-hopper",
+    "git": "https://github.com/MrCrayfish/GoldenHopper",
+    "license": "GPL-3.0-only",
     "files": {
       "1.15": 2938348
+    },
+    "notes": {
+      "1.15": "2020-04-23: 1.15-1.1.1",
+      "1.16": "PR @ 2020-06-30: https://github.com/MrCrayfish/GoldenHopper/pull/8"
     }
   },
   "377056": {
-    "name": "",
-    "url": "",
+    "name": "Coins",
+    "license": true,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/coins-je",
+    "git": "https://github.com/Darkhax-Minecraft/Coins",
     "files": {
       "1.15": 2934454
+    },
+    "notes": {
+      "1.15": "2020-04-19: 1.15.2-1.0.1",
+      "1.16": "Git + Accepts PR + Prio"
     }
   },
   "386566": {
-    "name": "",
-    "url": "",
+    "name": "Workbench Factory",
+    "my": true,
+    "license": "MIT",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/workbench-factory",
+    "git": "https://github.com/puggan/mc-factory",
     "files": {
-      "1.15": 2974135
+      "1.15": 2974135,
+      "1.16": 2993249
+    },
+    "notes": {
+      "1.15": "2020-06-07: 1.15.2-1.0.1",
+      "1.16": "2020-06-30: 1.16.1-1.0.1"
     }
   }
 }
