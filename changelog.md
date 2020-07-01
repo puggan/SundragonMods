@@ -1,3 +1,9 @@
+v1.2.1
+=========
+* Updated Light Overlay 1.15-4.6.1 -> 1.15-5.4.0
+* Updated Infinite Trading 1.15-1.0 -> 1.15-1.1
+* Alpha release of 1.16: 7 of 16 mods included.
+
 v1.2.0
 =========
 * Added redstone tools:

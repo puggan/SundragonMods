@@ -6,10 +6,10 @@ declare(strict_types=1);
  * @throws \RuntimeException
  */
 (static function () {
-    $modVersion = '1.2.0';
+    $modVersion = '1.2.1';
     $mcVersions = [
         '1.15' => ['1.15.2', '31.2.0'],
-//        '1.16' => ['1.16.1', '32.0.26'],
+        '1.16' => ['1.16.1', '32.0.26'],
     ];
     $jsonOptions = JSON_THROW_ON_ERROR | JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
 
@@ -34,7 +34,6 @@ declare(strict_types=1);
             }
         }
 
-        sort($manifest->files);
         $dir = __DIR__ . '/build/' . $mcVersion;
         if (!is_dir($dir) && !mkdir($dir, 0777, true) && !is_dir($dir)) {
             throw new \RuntimeException("Directory '{$dir}' was not created");
