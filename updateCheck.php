@@ -6,6 +6,7 @@ declare(strict_types=1);
  * @throws \RuntimeException
  */
 (static function () {
+    $cache = [];
     $mods = \json_decode(file_get_contents(__DIR__ . '/src/mods.json'), false, 512, JSON_THROW_ON_ERROR);
     $types = [
         1 => 'Stable',
@@ -30,6 +31,7 @@ declare(strict_types=1);
             echo $raw;
             continue;
         }
+        $cache[$modId] = $json;
         $newestFileId = max(array_column((array) $json, "id"));
         if ($newestFileId <= $lastFileId) {
             continue;
@@ -44,12 +46,14 @@ declare(strict_types=1);
             $date = substr($fileMeta->fileDate, 0, 10);
             $gameVersions = implode(', ', $fileMeta->gameVersion);
             $type = $types[$fileMeta->releaseType] ?? $fileMeta->releaseType;
-            $updates[$fileId] = "{$type} @ {$date}: {$fileMeta->displayName} for {$gameVersions}";
+            $symbol = in_array('Forge', $fileMeta->gameVersion) ? '+' : (in_array('Fabric', $fileMeta->gameVersion) ? '-' : '*');
+            $updates[$fileId] = " {$symbol} {$fileId} {$type} @ {$date}: {$fileMeta->displayName} for {$gameVersions}";
         }
         krsort($updates);
         foreach ($updates as $fielId => $udpate) {
-            echo ' * ', $fielId, ' ', $udpate, PHP_EOL;
+            echo $udpate, PHP_EOL;
         }
         echo PHP_EOL;
     }
+    file_put_contents(__DIR__ . '/build/cache.json', json_encode($cache, 64*7));
 })();
