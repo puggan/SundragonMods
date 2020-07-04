@@ -6,7 +6,7 @@ declare(strict_types=1);
  * @throws \RuntimeException
  */
 (static function () {
-    $modVersion = '1.2.1';
+    $modVersion = '1.2.2';
     $mcVersions = [
         '1.15' => ['1.15.2', '31.2.0'],
         '1.16' => ['1.16.1', '32.0.26'],
