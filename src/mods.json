@@ -10,7 +10,7 @@
     },
     "notes": {
       "1.15": "2020-06-16: 1.15.2-5.7.0b3",
-      "1.16": "Closed source :-("
+      "1.16": "Replace it with Xaero's"
     }
   },
   "228525": {
@@ -36,7 +36,20 @@
     },
     "notes": {
       "1.15": "2020-03-20 1.15-5.0.2",
-      "1.16": "Github + MIT"
+      "1.16": "PR: https://github.com/jaredlll08/Clumps/pull/34"
+    }
+  },
+  "263420": {
+    "name": "Xaero's MiniMap",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+    "git": false,
+    "license": true,
+    "files": {
+      "1.16": 2996227
+    },
+    "notes": {
+      "1.15": "Jorney Map is used instead",
+      "1.16": "2020-07-04: 1.16.1-20.15.3"
     }
   },
   "278717": {
@@ -73,10 +86,10 @@
     "git": "https://github.com/Shadows-of-Fire/Placebo",
     "license": "MIT",
     "files": {
-      "1.15": 2870411
+      "1.15": 2996124
     },
     "notes": {
-      "1.15": "2020-01-27: 1.15.2-3.0.2",
+      "1.15": "2020-07-04: 1.15.2-3.1.0",
       "1.16": "Github + MIT"
     }
   },
@@ -113,11 +126,24 @@
     "license": true,
     "files": {
       "1.15": 2973188,
-      "1.16": 2991307
+      "1.16": 2994012
     },
     "notes": {
       "1.15": "2020-06-05: 1.15.2-1.0.6",
-      "1.16": "2020-06-28: 1.16.1-1.0.2"
+      "1.16": "2020-07-01: 1.16.1-1.0.3"
+    }
+  },
+  "317780": {
+    "name": "Xaero's World Map",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+    "git": false,
+    "license": true,
+    "files": {
+      "1.16": 2996226
+    },
+    "notes": {
+      "1.15": "Jorney Map is used instead",
+      "1.16": "2020-07-04: 1.16.1-1.7.3"
     }
   },
   "325492": {
@@ -199,7 +225,7 @@
     },
     "notes": {
       "1.15": "2020-04-19: 1.15.2-1.0.1",
-      "1.16": "Depends on Bookshelf"
+      "1.16": "Depends on Bookshelf, PR: https://github.com/Darkhax-Minecraft/Coins/pull/6"
     }
   },
   "386566": {
