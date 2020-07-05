@@ -6,10 +6,12 @@ declare(strict_types=1);
  * @throws \RuntimeException
  */
 (static function () {
-    $modVersion = '1.2.2';
+    $modVersion = '1.3.0';
     $mcVersions = [
+        '1.12' => ['1.12.2', '14.23.5.2854'],
+        '1.14' => ['1.14.4', '28.2.0'],
         '1.15' => ['1.15.2', '31.2.0'],
-        '1.16' => ['1.16.1', '32.0.26'],
+        '1.16' => ['1.16.1', '32.0.47'],
     ];
     $jsonOptions = JSON_THROW_ON_ERROR | JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE;
 
