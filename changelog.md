@@ -1,3 +1,9 @@
+v1.3.0
+========
+* Added Hwyla (Here's what you're looking at)
+* Added  JEI (Just Enough Items)
+* Added support for 1.12 and 1.14
+
 v1.2.1
 =========
 * Updated Light Overlay 1.15-4.6.1 -> 1.15-5.4.0

@@ -36,6 +36,45 @@
       "1.16": "PR-Draft: https://github.com/Darkhax-Minecraft/Bookshelf/pull/143"
     }
   },
+  "238222": {
+    "name": "JEI (Just Enough Items)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "git": "https://github.com/mezz/JustEnoughItems",
+    "license": "MIT",
+    "files": {
+      "1.16": 2995910,
+      "1.15": 2988823,
+      "1.14": 2985527,
+      "1.13": 2822847,
+      "1.12": 2995897
+    },
+    "notes": {
+      "1.12": "2020-07-03: 1.12.2-4.15.0.297",
+      "1.13": "2019-11-06: 1.13.2-5.0.0.30",
+      "1.14": "2020-06-22: 1.14.4-6.0.0.29",
+      "1.15": "2020-06-26: 1.15.2-6.0.2.12",
+      "1.16": "2020-07-03: 1.16.2-7.0.0.6"
+    }
+  },
+  "253449": {
+    "name": "Hwyla (Here's what you're looking at)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/hwyla",
+    "git": "https://github.com/TehNutHWYLA",
+    "license": "CC By-NC-SA 4.0",
+    "files": {
+      "1.15": 2880069,
+      "1.14": 2777880,
+      "1.13": 2699761,
+      "1.13": 2568751
+    },
+    "notes": {
+      "1.12": "2018-06-03: 1.12.2-1.8.26b41",
+      "1.13": "2019-04-16: 1.13.2-1.10.2b58",
+      "1.14": "2019-09-04: 1.14.4-1.10.6b67",
+      "1.15": "2020-05-25: 1.15.2-5.6.40",
+      "1.16": "Avaible on Fabric, git + CC"
+    }
+  },
   "256717": {
     "name": "Clumps",
     "url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
