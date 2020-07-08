@@ -1,7 +1,13 @@
+v1.4.0
+=======
+* Replaced Coins with Decimal Coins
+* Alot of mod upgrades, mostly for 1.16
+* Infinite Trading now require Collective
+
 v1.3.0
 ========
 * Added Hwyla (Here's what you're looking at)
-* Added  JEI (Just Enough Items)
+* Added JEI (Just Enough Items)
 * Added support for 1.12 and 1.14
 
 v1.2.1
