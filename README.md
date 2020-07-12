@@ -1,3 +1,14 @@
+v1.5.0
+=======
+* Added Advanced Shulkerboxes (disabled in 1.16 due to bug)
+* Added Trample Stopper
+* Added Bamboo Everything
+* Added Double Slabs
+* Added Torch Slabs Mod
+* Added Dramatic Doors
+* Added Sakura Rosea
+* Added Color Bricks
+
 v1.4.0
 =======
 * Replaced Coins with Decimal Coins
