@@ -46,7 +46,7 @@
       "1.15": 2880069,
       "1.14": 2777880,
       "1.13": 2699761,
-      "1.13": 2568751,
+      "1.12": 2568751,
       "skip": 2989943
     },
     "notes": {
@@ -55,6 +55,22 @@
       "1.14": "2019-09-04: 1.14.4-1.10.6b67",
       "1.15": "2020-05-25: 1.15.2-5.6.40",
       "1.16": "Avaible on Fabric, git + CC"
+    }
+  },
+  "253861": {
+    "name": "Advanced Shulkerboxes",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-shulkerboxes",
+    "git": false,
+    "license": true,
+    "files": {
+      "1.14": 2746068,
+      "1.15": 2944676,
+      "1.16": 3002088
+    },
+    "notes": {
+      "1.14": "2019-07-22: 1.14.4-1.7.0",
+      "1.15": "2020-04-30: 1.15.2-1.9.2",
+      "1.16": "2020-07-11: 1.16.1-1.0.1"
     }
   },
   "256717": {
@@ -161,6 +177,22 @@
       "1.16": "2020.07-08: 1.16.1-4.0.0"
     }
   },
+  "297028": {
+    "name": "Trample Stopper",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/trample-stopper",
+    "git": "https://github.com/UnRealDinnerbone/TrampleStopper",
+    "license": true,
+    "files": {
+      "1.14": 2820059,
+      "1.15": 2904783,
+      "1.16": 2990735
+    },
+    "notes": {
+      "1.14": "2019-11-01: 1.14.4-2.0.0.6",
+      "1.15": "2020-03-18: 1.15.2-2.0.0.1",
+      "1.16": "2020.07-08: 1.16.1-2.0.0.1"
+    }
+  },
   "299540": {
     "name": "Fast Furnace",
     "url": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
@@ -230,6 +262,22 @@
       "1.16": "2020-06-26: 1.16-5.4.0"
     }
   },
+  "331723": {
+    "name": "Bamboo Everything",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge",
+    "git": "https://github.com/Gaz492/Bamboo-Everything",
+    "license": true,
+    "files": {
+      "1.14": 2832872,
+      "1.15": 2869818,
+      "1.16": 2990753
+    },
+    "notes": {
+      "1.14": "2019-11-26: 1.14-1.5.0",
+      "1.15": "2020-01-26: 1.15-1.0.0",
+      "1.16": "2020-06-28: 1.16-1.0.0"
+    }
+  },
   "342584": {
     "name": "Collective",
     "url": "https://www.curseforge.com/minecraft/mc-mods/collective",
@@ -275,11 +323,45 @@
       "1.16": 2990101
     },
     "notes": {
-      "1.12": "2019-10-22: 1.14-1.0",
+      "1.12": "2019-10-22: 1.12-1.0",
       "1.13": "2019-10-22: 1.13-1.0",
       "1.14": "2020-06-13: 1.14-1.1",
       "1.15": "2020-06-13: 1.15-1.1",
       "1.16": "2020-06-27: 1.16-1.1"
+    }
+  },
+  "350179": {
+    "name": "Double Slabs",
+    "license": "CDDL",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/double-slabs",
+    "git": "https://github.com/CJMinecraft01/DoubleSlabs",
+    "files": {
+      "1.12": 3001237,
+      "1.14": 3001272,
+      "1.15": 3001279,
+      "1.16": 3001288
+    },
+    "notes": {
+      "1.12": "2020-07-10: 1.12-0.7.5",
+      "1.14": "2020-07-10: 1.14-1.7.6",
+      "1.15": "2020-07-10: 1.15-2.7.7",
+      "1.16": "2020-07-10: 1.16-3.0.3"
+    }
+  },
+  "355649": {
+    "name": "Torch Slabs Mod",
+    "license": "GPL3",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod",
+    "git": "https://github.com/EndlesNights/TorchSlab",
+    "files": {
+      "1.14": 2879767,
+      "1.15": 2992051,
+      "1.16": 2989776
+    },
+    "notes": {
+      "1.14": "2020-02-11: 1.14-1.5",
+      "1.15": "2020-06-29: 1.15-1.7",
+      "1.16": "2020-06-27: 1.16-1.6.16"
     }
   },
   "368728": {
@@ -308,6 +390,22 @@
       "1.16": "PR @ 2020-06-30: https://github.com/MrCrayfish/GoldenHopper/pull/8"
     }
   },
+  "380617": {
+    "name": "Dramatic Doors",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dramatic-doors",
+    "git": "https://github.com/TheFizzWare/DramaticDoors",
+    "license": "MIT",
+    "files": {
+      "1.14": 2951408,
+      "1.15": 2951409,
+      "1.16": 2996644
+    },
+    "notes": {
+      "1.14": "2020-05-08: 1.14.4-1.1.0",
+      "1.15": "2020-05-08: 1.15.2-1.1.0",
+      "1.16": "2020-07-05: 1.16.1-1.1.0"
+    }
+  },
   "386566": {
     "name": "Workbench Factory",
     "my": true,
@@ -325,6 +423,20 @@
       "1.16": "2020-07-07: 1.16.1-1.1.0"
     }
   },
+  "391379": {
+    "name": "Sakura Rosea",
+    "license": true,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sakura-rosea",
+    "git": false,
+    "files": {
+      "1.15": 3001685,
+      "1.16": 3001683
+    },
+    "notes": {
+      "1.15": "2020-07-10: 1.15.2-1.4.0",
+      "1.16": "2020-07-10: 1.16.1-1.4.0"
+    }
+  },
   "394362": {
     "name": "Decimal Coins",
     "my": true,
@@ -340,6 +452,23 @@
       "1.14": "2020-07-08: 1.14.4-1.0.0",
       "1.15": "2020-07-08: 1.15.2-1.0.0",
       "1.16": "2020-07-08: 1.16.1-1.0.0"
+    }
+  },
+  "395026": {
+    "name": "Color Bricks",
+    "my": true,
+    "license": "MIT",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/colorbricks",
+    "git": "https://github.com/puggan/mc-colorbricks",
+    "files": {
+      "1.14": 3002371,
+      "1.15": 3002372,
+      "1.16": 3002373
+    },
+    "notes": {
+      "1.14": "2020-07-11: 1.14.4-0.1.0",
+      "1.15": "2020-07-11: 1.15.2-0.1.0",
+      "1.16": "2020-07-11: 1.16.1-0.1.0"
     }
   }
 }
