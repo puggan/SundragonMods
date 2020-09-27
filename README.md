@@ -1,6 +1,8 @@
 v1.5.1
 =======
 * Updated 23 mods
+* Disabled 4 mods that require MC before 1.16.3
+* Disabled 3 mods that missing License-information
 
 v1.5.0
 =======
