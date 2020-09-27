@@ -1,3 +1,7 @@
+v1.5.1
+=======
+* Updated 23 mods
+
 v1.5.0
 =======
 * Added Advanced Shulkerboxes (disabled in 1.16 due to bug)
